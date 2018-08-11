@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  11 AUG 2018 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  11 AUG 2018 23:10
 entering extended mode
 **"./final docu.tex"
 ("final docu.tex"
@@ -1283,14 +1283,14 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 41.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<figure/A_signature.pdf, id=158, 572.73979pt x 330.63527pt>
+<figure/A_signature.pdf, id=134, 572.73979pt x 330.63527pt>
 File: figure/A_signature.pdf Graphic file (type pdf)
 
 <use figure/A_signature.pdf>
 Package pdftex.def Info: figure/A_signature.pdf used on input line 41.
 (pdftex.def)             Requested size: 38.64516pt x 22.31071pt.
 
-<figure/mama_signature.pdf, id=159, 386.64452pt x 217.41226pt>
+<figure/mama_signature.pdf, id=135, 386.64452pt x 217.41226pt>
 File: figure/mama_signature.pdf Graphic file (type pdf)
 
 <use figure/mama_signature.pdf>
@@ -1334,50 +1334,91 @@ Overfull \hbox (3.90652pt too wide) has occurred while \output is active
 
 
  <./figure/A_signature.pdf> <./figure/mama_signature.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 197.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8.03> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 197.
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 253
+.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 253.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 253.
+
+
+LaTeX Warning: Citation `Einstein1905' on page 2 undefined on input line 276.
+
+
 Overfull \hbox (3.90652pt too wide) has occurred while \output is active
 [][] [] \OT1/phv/m/n/7.02625 2
  []
 
-[2] <figure/rubric.pdf, id=182, 500.46976pt x 695.398pt>
+[2] <figure/rubric.pdf, id=231, 500.46976pt x 695.398pt>
 File: figure/rubric.pdf Graphic file (type pdf)
 
 <use figure/rubric.pdf>
-Package pdftex.def Info: figure/rubric.pdf used on input line 172.
+Package pdftex.def Info: figure/rubric.pdf used on input line 331.
 (pdftex.def)             Requested size: 517.935pt x 719.70587pt.
 
 
-LaTeX Warning: Float too large for page by 18.32558pt on input line 173.
+LaTeX Warning: Float too large for page by 18.32558pt on input line 332.
 
 
 Overfull \hbox (3.90652pt too wide) has occurred while \output is active
 [][] [] \OT1/phv/m/n/7.02625 3
  []
 
-[3 <./figure/rubric.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
+[3
+
+]
+Overfull \hbox (3.90652pt too wide) has occurred while \output is active
+[][] [] \OT1/phv/m/n/7.02625 4
+ []
+
+[4 <./figure/rubric.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 335.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 335.
  ("final docu.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 335.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 335.
 Package rerunfilecheck Info: File `"final docu".out' has not changed.
-(rerunfilecheck)             Checksum: 322F49423DFED7EC6671B49A4953941E;4348.
+(rerunfilecheck)             Checksum: 24E4ACB7AB11D61F40BB2FAFF7F225A4;3492.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 27119 strings out of 493323
- 481014 string characters out of 3139031
- 636059 words of memory out of 3000000
- 29981 multiletter control sequences out of 15000+200000
- 67977 words of font info for 209 fonts, out of 3000000 for 9000
+ 27258 strings out of 493323
+ 482880 string characters out of 3139031
+ 644290 words of memory out of 3000000
+ 30078 multiletter control sequences out of 15000+200000
+ 70657 words of font info for 199 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 57i,13n,54p,1080b,499s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,13n,54p,1080b,661s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pf
-b>
-Output written on "final docu.pdf" (3 pages, 187125 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfdi
+ng/uzdr.pfb>
+Output written on "final docu.pdf" (4 pages, 254329 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 26956 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 29468 words of extra memory for PDF output out of 29859 (max. 10000000)
 
