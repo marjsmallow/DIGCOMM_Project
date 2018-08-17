@@ -7,7 +7,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
-\title{BLUETOOTH and WIFI-ENABLED PANIC BUTTON for POTENTIAL RAPE VICTIMS} %ang imomodify daw yung BLUETOOTH and WIFI
+\title{Bluetooth Enabled Panic Button for Potential Rape Victims}
 
 \author{
 	{\small
@@ -102,15 +102,27 @@ By:
 
 \subsection{What figures, equations, and/or tables could support your answers in Sec. 2.1 and Sec.2.2?}
 \begin{enumerate}
-	\item Up to two lines per item. Figure \ldots shows \ldots
-	\item Up to two lines per item. Table \ldots shows \ldots
+	\item The figure below shows an example of a wireless connection between a single or multiple devices using bluetooth
+	\begin{figure}[hp]
+		\centering
+		\captionsetup{justification=centering,margin=2cm}
+		\includegraphics[height=25ex]{piconet}
+		\caption{Piconet}
+	\end{figure}
+	\item The figure below shows a block diagram implementation for frequency hopping code.
+	\begin{figure}[ht]
+		\centering
+		\captionsetup{justification=centering,margin=2cm}
+		\includegraphics[height=30ex]{fhss}
+		\caption{Block Diagram of FHSS}
+	\end{figure}
 \end{enumerate}
 
 \subsection{Did you cite more than two publications in your answers in Sec. 2.1. and 2.2}
-No.
+Yes
 	
 \subsection{Did you cite any online source in your answers in Sec.2.1 and Sec.2.2?}
-No.
+Yes.
 
 
 \section{Methodology}
@@ -118,15 +130,16 @@ No.
 \subsection{How does your implementation in Sec.~\ref{sec:implem} achieve the objectives?}
 By:
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Simulating the performance difference between CDMA and TDMA
 \end{enumerate}
 
 \subsection{Why does your implementation in Sec.~\ref{sec:implem} achieve the objectives?}
 Because:
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item The application of TDMA simplifies the point to multiple-point connections
+	
+	\item Multiple-point connections can help the rape victim reach out to a lot of contacts simultaneously
+	
 \end{enumerate}
 
 \subsection{How does your evaluation in Sec.~\ref{sec:eval} achieve the objectives?}
@@ -154,16 +167,25 @@ Rule of thumb: Implementation is how you made your  work; (keywords: implemented
 \subsubsection{What were the materials used?}
 If the presentation would be better and necessary, tabulate your answers here instead of enumeration.
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Bluetooth Module
+	\item Arduino
+	\item Push Button
 \end{enumerate}
 
 
 \subsubsection{What is the summary of the processes used to make the coursework?}
-If you wrote a program or made a simulation, you must add statements how the program or simulation functions in this section.	A pseudocode as shown in Table~\ref{tab:calcxn} is a good example.
+
+\begin{figure}[hp]
+	\centering
+	\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[height=30ex]{bluetoothsimulink}
+	\caption{An example of bluetooth module in SIMULINK to be used for DCT}
+\end{figure}
+
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Overlaying of bluetooth protocol to hardware device.
+	\item Master device shares different hopping code for each slave devices.
+	\item Each slave devices are independent of each other.
 \end{enumerate}
 
 \begin{table}[!b]
@@ -239,8 +261,10 @@ Rule of thumb: Evaluation is how you tested your  work for correctness; (keyword
 \subsection{How do the results achieve the objectives?}
 By:
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Showing that TDMA was more efficient compared to CDMA. With this, the modified DCT would highly benefit the marginalized sector.
+	\item Showing that TDM and FDM overlays protocol are beneficial to helping the device to be able to connect to more than one data connection to other devices simultaneously;
+	\item From the aforementioned statement, it showed that using bluetooth modules with modified DCT, is better than using other modules such as GSM/GPRS because the marginalized sectors are able to get more with less expenses.
+	
 \end{enumerate}
 
 \subsection{Why do the results achieve the objectives?}

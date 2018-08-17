@@ -5,28 +5,4 @@ A.~Einstein, ``{Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
   electrodynamics of moving bodies],'' {\em Annalen der Physik}, vol.~322,
   no.~10, pp.~891--921, 1905.
 
-\bibitem{Oetiker2014}
-T.~Oetiker, H.~Partl, I.~Hyna, and E.~Schlegl, {\em The Not So Short
-  Introduction to \LaTeX e Or \LaTeXe in 157 minutes}.
-\newblock n.a., 2015.
-
-\bibitem{Shell2015}
-M.~Shell, ``How to use the {IEEE}tran {L}a{T}e{X} class. 2015.''
-
-\bibitem{IEEEMSW2013}
-IEEE, ``Preparation of {P}apers for {IEEE} {T}rans. {J}. ({D}ecember 2013).''
-
-\bibitem{ISO800002}
-{ISO}, ``80000-2,'' {\em Quantities and units--Part 2: Mathematical signs and
-  symbols to be used in the natural sciences and technology}, 2009.
-
-\bibitem{Tanenbaum2002}
-A.~Tanenbaum, {\em Computer Networks}.
-\newblock Prentice Hall Professional Technical Reference, 4th~ed., 2002.
-
-\bibitem{Lumb2014}
-S.~Lumb, S.~Lumb, and V.~Prasad, ``Laser-induced excitation and ionization of a
-  confined hydrogen atom in an exponential-cosine-screened coulomb potential,''
-  {\em Physical Review A}, vol.~90, no.~3, p.~032505, 2014.
-
 \end{thebibliography}
