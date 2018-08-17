@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  18 AUG 2018 02:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  18 AUG 2018 02:41
 entering extended mode
 **"./final docu.tex"
 ("final docu.tex"
@@ -1299,7 +1299,12 @@ File: figure/A_signature.pdf Graphic file (type pdf)
 <use figure/A_signature.pdf>
 Package pdftex.def Info: figure/A_signature.pdf  used on input line 41.
 (pdftex.def)             Requested size: 38.64516pt x 22.31071pt.
-<figure/mama_signature.pdf, id=139, 386.64452pt x 217.41226pt>
+<figure/R_signature.jpg, id=139, 1184.425pt x 630.355pt>
+File: figure/R_signature.jpg Graphic file (type jpg)
+<use figure/R_signature.jpg>
+Package pdftex.def Info: figure/R_signature.jpg  used on input line 41.
+(pdftex.def)             Requested size: 41.91092pt x 22.31071pt.
+<figure/mama_signature.pdf, id=140, 386.64452pt x 217.41226pt>
 File: figure/mama_signature.pdf Graphic file (type pdf)
 <use figure/mama_signature.pdf>
 Package pdftex.def Info: figure/mama_signature.pdf  used on input line 41.
@@ -1315,6 +1320,10 @@ File: figure/A_signature.pdf Graphic file (type pdf)
 <use figure/A_signature.pdf>
 Package pdftex.def Info: figure/A_signature.pdf  used on input line 41.
 (pdftex.def)             Requested size: 38.64516pt x 22.31071pt.
+File: figure/R_signature.jpg Graphic file (type jpg)
+<use figure/R_signature.jpg>
+Package pdftex.def Info: figure/R_signature.jpg  used on input line 41.
+(pdftex.def)             Requested size: 41.91092pt x 22.31071pt.
 File: figure/mama_signature.pdf Graphic file (type pdf)
 <use figure/mama_signature.pdf>
 Package pdftex.def Info: figure/mama_signature.pdf  used on input line 41.
@@ -1323,6 +1332,10 @@ File: figure/A_signature.pdf Graphic file (type pdf)
 <use figure/A_signature.pdf>
 Package pdftex.def Info: figure/A_signature.pdf  used on input line 41.
 (pdftex.def)             Requested size: 38.64516pt x 22.31071pt.
+File: figure/R_signature.jpg Graphic file (type jpg)
+<use figure/R_signature.jpg>
+Package pdftex.def Info: figure/R_signature.jpg  used on input line 41.
+(pdftex.def)             Requested size: 41.91092pt x 22.31071pt.
 File: figure/mama_signature.pdf Graphic file (type pdf)
 <use figure/mama_signature.pdf>
 Package pdftex.def Info: figure/mama_signature.pdf  used on input line 41.
@@ -1331,12 +1344,12 @@ LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 41.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <10.03749> not available
 
 (Font)              Font shape `OT1/phv/b/sc' tried instead on input line 43.
-<figure/piconet.pdf, id=140, 436.02902pt x 216.20776pt>
+<figure/piconet.pdf, id=141, 436.02902pt x 216.20776pt>
 File: figure/piconet.pdf Graphic file (type pdf)
 <use figure/piconet.pdf>
 Package pdftex.def Info: figure/piconet.pdf  used on input line 111.
 (pdftex.def)             Requested size: 238.2066pt x 118.11562pt.
-<figure/fhss.pdf, id=141, 529.98pt x 295.1025pt>
+<figure/fhss.pdf, id=142, 529.98pt x 295.1025pt>
 File: figure/fhss.pdf Graphic file (type pdf)
 <use figure/fhss.pdf>
 Package pdftex.def Info: figure/fhss.pdf  used on input line 118.
@@ -1354,9 +1367,9 @@ Overfull \hbox (3.90652pt too wide) has occurred while \output is active
 [1{C:/Users/user/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <./figure/A_signature.pdf> <./figure/mama_signature.pdf> <./figure/piconet.pdf
->]
-<figure/bluetoothsimulink.pdf, id=181, 633.56702pt x 327.62402pt>
+ <./figure/A_signature.pdf> <./figure/R_signature.jpg> <./figure/mama_signature
+.pdf> <./figure/piconet.pdf>]
+<figure/bluetoothsimulink.pdf, id=182, 633.56702pt x 327.62402pt>
 File: figure/bluetoothsimulink.pdf Graphic file (type pdf)
 <use figure/bluetoothsimulink.pdf>
 Package pdftex.def Info: figure/bluetoothsimulink.pdf  used on input line 182.
@@ -1389,7 +1402,7 @@ Overfull \hbox (3.90652pt too wide) has occurred while \output is active
  []
 
 [3]
-<figure/rubric.pdf, id=246, 500.46976pt x 695.398pt>
+<figure/rubric.pdf, id=247, 500.46976pt x 695.398pt>
 File: figure/rubric.pdf Graphic file (type pdf)
 <use figure/rubric.pdf>
 Package pdftex.def Info: figure/rubric.pdf  used on input line 310.
@@ -1413,22 +1426,22 @@ Package rerunfilecheck Info: File `"final docu".out' has not changed.
 (rerunfilecheck)             Checksum: 3AB4D3E12EE50066FA9BD5E96FC4C3EF;3540.
  ) 
 Here is how much of TeX's memory you used:
- 27239 strings out of 492973
- 484635 string characters out of 3135935
- 645753 words of memory out of 3000000
- 30381 multiletter control sequences out of 15000+200000
+ 27246 strings out of 492973
+ 484765 string characters out of 3135935
+ 644753 words of memory out of 3000000
+ 30385 multiletter control sequences out of 15000+200000
  69912 words of font info for 204 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 57i,13n,61p,1080b,496s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,13n,61p,1080b,498s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic
 /uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on "final docu.pdf" (4 pages, 380800 bytes).
+Output written on "final docu.pdf" (4 pages, 408361 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
+ 337 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
- 28979 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28984 words of extra memory for PDF output out of 29859 (max. 10000000)
 
