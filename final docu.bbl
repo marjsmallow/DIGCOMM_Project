@@ -1,8 +1,87 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{Einstein1905}
-A.~Einstein, ``{Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
-  electrodynamics of moving bodies],'' {\em Annalen der Physik}, vol.~322,
-  no.~10, pp.~891--921, 1905.
+\bibitem [\protect \citeauthoryear {%
+Abuzneid%
+, Patel%
+, Mohammed%
+\BCBL {}\ \BBA {} Godula%
+}{%
+Abuzneid%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+abuzneid2008multiplexing}
+\APACinsertmetastar {%
+abuzneid2008multiplexing}%
+\begin{APACrefauthors}%
+Abuzneid, A.%
+, Patel, S.%
+, Mohammed, V\BPBI U.%
+\BCBL {}\ \BBA {} Godula, V\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multiplexing Overlays on Bluetooth} {Multiplexing
+  overlays on bluetooth}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Novel Algorithms and Techniques In Telecommunications,
+  Automation and Industrial Electronics} {Novel algorithms and techniques in
+  telecommunications, automation and industrial electronics}\ (\BPGS\
+  375--383).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McDermott-Wells%
+}{%
+McDermott-Wells%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+mcdermott2004bluetooth}
+\APACinsertmetastar {%
+mcdermott2004bluetooth}%
+\begin{APACrefauthors}%
+McDermott-Wells, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bluetooth scatternet models} {Bluetooth scatternet
+  models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE potentials}{23}{5}{36--39}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Miller%
+\ \BBA {} Bisdikian%
+}{%
+Miller%
+\ \BBA {} Bisdikian%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+miller2001bluetooth}
+\APACinsertmetastar {%
+miller2001bluetooth}%
+\begin{APACrefauthors}%
+Miller, B\BPBI A.%
+\BCBT {}\ \BBA {} Bisdikian, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2001}.
+\newblock
+\APACrefbtitle {Bluetooth revealed: the insider's guide to an open
+  specification for global wireless communication} {Bluetooth revealed: the
+  insider's guide to an open specification for global wireless communication}.
+\newblock
+\APACaddressPublisher{}{Prentice Hall PTR}.
+\PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
