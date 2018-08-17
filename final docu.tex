@@ -73,6 +73,8 @@ By:
 The key results are:
 \begin{enumerate}
 	\item To help the master (rape victim) in a Piconet maintain more than one connection simultaneously.
+	\item make use of multiple point in reaching out contacts once the panic button is pressed.
+	\item modification of multiple access scheme used by bluetooth standard.
 
 \end{enumerate}
 
@@ -130,7 +132,8 @@ Yes.
 \subsection{How does your implementation in Sec.~\ref{sec:implem} achieve the objectives?}
 By:
 \begin{enumerate}
-	\item Simulating the performance difference between CDMA and TDMA
+	\item Simulating the performance difference between CDMA and TDMA.
+	\item Showing application of TDM and full full duplex transmission to panic button device.
 \end{enumerate}
 
 \subsection{Why does your implementation in Sec.~\ref{sec:implem} achieve the objectives?}
@@ -145,15 +148,17 @@ Because:
 \subsection{How does your evaluation in Sec.~\ref{sec:eval} achieve the objectives?}
 By:
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Achieving these results, it can be proven that the use of overlay TDM into FSHH would improve its duplexing technique.
+	\item it would make the panic button device more efficient and faster for reaching help since multiple contacts are accessed simultaneously.
 \end{enumerate}
 
 \subsection{Why does your evaluation in Sec.~\ref{sec:eval}  achieve the objectives?}
 Because:
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item 
+	It is proven that a possibility of simultaneous access point is possible with bluetooth through simulation
+	
+	\item It could serve as new innovation to further studies about multiple access with bluetooth.
 \end{enumerate}
 
 
@@ -161,11 +166,7 @@ Because:
 \subsection{Implementation}
 \label{sec:implem}
 
-Rule of thumb: Implementation is how you made your  work; (keywords: implemented, created, made, soldered, programmed, etc.).
-
-
 \subsubsection{What were the materials used?}
-If the presentation would be better and necessary, tabulate your answers here instead of enumeration.
 \begin{enumerate}
 	\item Bluetooth Module
 	\item Arduino
@@ -188,71 +189,21 @@ If the presentation would be better and necessary, tabulate your answers here in
 	\item Each slave devices are independent of each other.
 \end{enumerate}
 
-\begin{table}[!b]
-	\caption{Pseudocode for the calculation of $y = x^n$}
-	\label{tab:calcxn}	
-	\centering
-	{\footnotesize
-		\begin{tabular}{lll}
-			\hline
-			\hline
-			{\bfseries Input(s):} & & \\
-			$n$ & : & $n$th power; $n \in \mathbb{Z}^{+}$ \\
-			$x$ & : & base value; $x \in \mathbb{R}^{+}$ \\
-			\hline
-			{\bfseries Output(s):} & & \\
-			$y$ & : & result; $y \in \mathbb{R}^{+}$  \\
-			\hline
-			\hline
-			\\
-		\end{tabular}
-	}
-	\begin{algorithmic}[1]
-		{\footnotesize
-			\REQUIRE $n \geq 0 \vee x \neq 0$
-			\ENSURE $y = x^n$
-			\STATE $y \Leftarrow 1$
-			\IF{$n < 0$}
-			\STATE $X \Leftarrow 1 / x$
-			\STATE $N \Leftarrow -n$
-			\ELSE
-			\STATE $X \Leftarrow x$
-			\STATE $N \Leftarrow n$
-			\ENDIF
-			\WHILE{$N \neq 0$}
-			\IF{$N$ is even}
-			\STATE $X \Leftarrow X \times X$
-			\STATE $N \Leftarrow N / 2$
-			\ELSE[$N$ is odd]
-			\STATE $y \Leftarrow y \times X$
-			\STATE $N \Leftarrow N - 1$
-			\ENDIF
-			\ENDWHILE
-		}
-	\end{algorithmic}
-\end{table}
-
-
-
-
-
-
-
 \subsection{Evaluation}
 \label{sec:eval}
 
-Rule of thumb: Evaluation is how you tested your  work for correctness; (keywords: measured, tested, compared, simulated, etc.).
-
 \subsubsection{What were your procedures for evaluating the correct outcome of your coursework?}
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item researched for different multiplexing techniques.
+	\item studied the difference between FHSS and TDMA and how TDMA was incorporated to bluetooth.
+	\item creating a full duplex piconet between a master and slave device for comparison.
 \end{enumerate}
 
 \subsubsection{What quantities were gathered and how have you obtained them for testing the veracity of your results?}
 \begin{enumerate}
-	\item Up to two lines per item.
-	\item Up to two lines per item.
+	\item Hopping Spectrogram
+	\item Timing Diagram
+	\item BER Calculation Rate
 \end{enumerate}
 
 
